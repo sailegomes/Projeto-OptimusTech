@@ -47,6 +47,7 @@
 
 .entrar{
     padding-right: 2em;
+    color: var(--preto);
 }
 
 .entrar:hover{
